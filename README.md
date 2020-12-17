@@ -10,4 +10,4 @@ I'm trasitioning from Marketing to Tech and to do so, I'm learning how to code
 - ⚡ Fun fact: I love to write, but I never thought I would like to write code. 
 
 
-[![Amanda's stats](https://github-readme-stats.vercel.app/api?username=mandyarruda)](https://github.com/mandyarruda/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Amanda's stats](https://github-readme-stats.vercel.app/api?username=mandyarruda)](https://github.com/mandyarruda/github-readme-stats)           [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
